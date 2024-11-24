@@ -12,6 +12,7 @@ camera_streams = [
 ]
 
 
+
 # Processing each camera stream
 def process_camera_stream(rtsp_url, output_name, window_name, model):
     # Open the video stream
